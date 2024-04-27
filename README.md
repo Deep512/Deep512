@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a blockchain-based code plagiarism detection and copyright management system.
+- 🔭 I’m currently working on upgrading my Instagram Clone project with the additional features
+- 🌱 I’m currently learning about the internals of JS and TS language
+- 🤔 I’m looking for help on starting individual open source contribution
