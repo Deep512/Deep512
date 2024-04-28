@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on upgrading my Instagram Clone project with the additional features
 - 🌱 I’m currently learning about the internals of JS and TS language
-- 🤔 I’m looking for help on starting individual open source contribution
+- 🤔 I’m looking for projects for open source contributions (MERN stack preferred)
