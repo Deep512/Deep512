@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on upgrading my Instagram Clone project with the additional features
-- 🌱 I’m currently learning about the internals of JS and TS language
-- 🤔 I’m looking for projects for open source contributions (MERN stack preferred)
+- 🔭 Currently working on upgrading my Instagram Clone project with the additional features
+- 🌱 Learning about the internals of JS and TS language
+- 🤔 Looking for projects for open-source contributions
